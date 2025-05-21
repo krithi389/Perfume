@@ -1,0 +1,82 @@
+nav{
+    background-color: black;
+    margin:10px;
+    padding:13px;
+    
+    
+
+}
+h2{
+    color:white;
+    padding-left: 1%;
+
+}
+ul{
+    color:gray;
+    padding-left: 60%;
+    cursor: pointer;
+    
+}
+a{
+    color:gray
+}
+a:hover{
+    color:white;
+}
+h2,ul,li{
+    display: inline;
+}
+li:hover{
+    color:white;
+}
+input{
+    width:60%;padding: 8px;
+}
+div{
+    text-align: center;
+    margin-top: 30px;
+}
+img{
+    width:180px;height:180px;
+}
+.box{
+    width:220px;height:260px;
+    border:4px;border-color: black;border-style: solid;
+    display:inline-block;
+    margin:1%;
+    cursor: pointer;
+}
+.products{
+    text-align: center;
+}
+.box:hover{
+    background-color: black;color:white;
+}
+  
+h1{
+    text-align: center;
+    
+}
+.odi{
+    text-align: center;
+}
+.try{
+    background-color: black;
+    text-align: center;
+    
+}
+
+
+.color{
+    color:white;
+}
+
+
+.two
+{
+    color:gray;
+    padding:1%
+}
+
+
+
